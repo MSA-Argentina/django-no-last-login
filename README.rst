@@ -8,12 +8,16 @@ You could use this to connect a Django app to a read-only database, such as a re
 Quick start
 -----------
 
-1. Add "nolastlogin" to your INSTALLED_APPS setting like this::
+1. Add "nolastlogin" to your INSTALLED_APPS setting like this:
+
+::
 
     INSTALLED_APPS = [
         ...
         'nolastlogin',
     ]
 
-2. Add this to the settings::
+2. Add this to the settings:
+
+::
     NO_UPDATE_LAST_LOGIN = True
