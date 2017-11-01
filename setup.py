@@ -15,7 +15,7 @@ setup(
     license='BSD License',
     description='Disable the update of last_login field on user login',
     long_description=README,
-    url='https://www.example.com/',
+    url='https://github.com/MSA-Argentina/django-no-last-login',
     author='Franco Mariluis',
     author_email='me@fmariluis.info',
     classifiers=[
