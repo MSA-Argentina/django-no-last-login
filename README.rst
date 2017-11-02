@@ -20,4 +20,5 @@ Quick start
 2. Add this to the settings:
 
 ::
+
     NO_UPDATE_LAST_LOGIN = True
